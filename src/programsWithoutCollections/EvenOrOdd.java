@@ -17,6 +17,7 @@ public class EvenOrOdd {
 		else {
 			System.out.println(number + "is odd");
 		}
+		System.out.println("exist the condition");
 		
 
 	}
